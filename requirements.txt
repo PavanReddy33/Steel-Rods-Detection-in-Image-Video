@@ -3,3 +3,4 @@ Pillow
 ultralytics
 numpy
 streamlit
+libgl1-mesa-glx
